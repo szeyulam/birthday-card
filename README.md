@@ -1,4 +1,4 @@
 3D flip birthday card
 
 
-credit to codingartistweb https://codingartistweb.com/2021/11/3d-flip-birthday-card-css/
+shout out to Coding Artist for the idea https://www.youtube.com/watch?v=gGuDNQbRQcg&ab_channel=CodingArtist
